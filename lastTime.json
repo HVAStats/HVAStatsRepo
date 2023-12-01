@@ -1,7 +1,22 @@
 {
-  "Last Fight": 1700175600,
-  "Lockdown": 1700148720,
-  "Fire Alarm": 1699550880,
-  "School Year Start": 1692102600,
-  "School Gassing": 1680192000
+  "Last Fight": {
+    "time": 1700175600,
+    "image": "https://t4.ftcdn.net/jpg/05/34/53/71/360_F_534537165_FvQKEL5FZEUPNRqiry2PFLEBdruWGj3f.jpg"
+  },
+  "Lockdown": {
+    "time": 1700148720,
+    "image": "https://t4.ftcdn.net/jpg/05/34/53/71/360_F_534537165_FvQKEL5FZEUPNRqiry2PFLEBdruWGj3f.jpg"
+  },
+  "Fire Alarm": {
+    "time": 1699550880,
+    "image": "https://t4.ftcdn.net/jpg/05/34/53/71/360_F_534537165_FvQKEL5FZEUPNRqiry2PFLEBdruWGj3f.jpg"
+  },
+  "School Year Start": {
+    "time": 1692102600,
+    "image": "https://t4.ftcdn.net/jpg/05/34/53/71/360_F_534537165_FvQKEL5FZEUPNRqiry2PFLEBdruWGj3f.jpg"
+  },
+  "School Gassing": {
+    "time": 1680192000,
+    "image": "https://t4.ftcdn.net/jpg/05/34/53/71/360_F_534537165_FvQKEL5FZEUPNRqiry2PFLEBdruWGj3f.jpg"
+  }
 }
