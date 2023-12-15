@@ -1,5 +1,5 @@
 {
   "show": true,
-  "header": "HVA Is Under Lockdown",
-  "info": "This is a test warning and not real"
+  "header": "HVA Is NOT Under Lockdown",
+  "info": "This is a test warning\ntest\ntest"
 }
