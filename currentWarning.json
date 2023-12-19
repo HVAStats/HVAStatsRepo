@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "header": "This Is A Test Warning",
   "info": "This would show information about s cureent lockdown or event happening at HVA"
 }
