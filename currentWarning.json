@@ -1,5 +1,5 @@
 {
-  "show": false,
-  "header": "HVA Is Currently Evacuated",
-  "info": "Many detaild are unknown, but HVA has been evacuated since around 2:50"
+  "show": true,
+  "header": "This Is A Test Warning",
+  "info": "This would show information about s cureent lockdown or event happening at HVA"
 }
