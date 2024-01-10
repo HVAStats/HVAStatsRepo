@@ -1,5 +1,5 @@
 {
-  "show": false,
-  "header": "This Is A Test Warning",
-  "info": "This would show information about s cureent lockdown or event happening at HVA"
+  "show": true,
+  "header": "2 Hour Delay",
+  "info": "School will begin two hours late on Wednesday January 10th"
 }
