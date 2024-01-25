@@ -1,5 +1,5 @@
 {
-  "show": false,
-  "header": "No School",
-  "info": "Knox County Schools will out on Friday, January 11th due to severe weather conditions."
+  "show": true,
+  "header": "2 Hour Delay",
+  "info": "We are on a modified schedule due to the 2 hour delay today.\n1st: 11:32-12:26\n2nd: 12:34-2:28\n4th: 2:36-3:30"
 }
