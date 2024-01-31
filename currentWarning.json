@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "header": "Fire Drill",
   "info": "The building currently evacuated for a fire drill"
 }
