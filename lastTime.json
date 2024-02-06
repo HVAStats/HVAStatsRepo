@@ -1,42 +1,12 @@
 {
-  "Lockdown": {
-    "time": 1707230816,
-    "image": ""
-  },
-  "Butt Plug Found": {
-    "time": 1706884200,
-    "image": ""
-  },
-  "Evacuation": {
-    "time": 1706712151,
-    "image": ""
-  }, 
-  "Car Towed": {
-    "time": 1706214725,
-    "image": ""
-  },
-  "Bathroom Flooded": {
-    "time": 1704985289,
-    "image": ""
-  },
-  "Pedophile Fired": {
-    "time": 1701842400,
-    "image": ""
-  },
-  "Fight": {
-    "time": 1700175600,
-    "image": ""
-  },
-  "Fire Alarm": {
-    "time": 1699550880,
-    "image": ""
-  },
-  "School Year Start": {
-    "time": 1692102600,
-    "image": ""
-  },
-  "School Gassing": {
-    "time": 1680192000,
-    "image": ""
-  }
+  "Lockdown": 1707230816,
+  "Butt Plug Found": 1706884200,
+  "Evacuation": 1706712151,
+  "Car Towed": 1706214725,
+  "Bathroom Flooded": 1704985289,
+  "Pedophile Fired": 1701842400,
+  "Fight": 1700175600,
+  "Fire Alarm": 1699550880,
+  "School Year Start": 1692102600,
+  "School Gassing": 1680192000
 }
