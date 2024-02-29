@@ -1,5 +1,5 @@
 {
-  "show": false,
-  "header": "No 4th Block",
-  "info": "Due to the evacuation, 3rd block will continue until 3:30"
+  "show": true,
+  "header": "Tornado Siren",
+  "info": "A TEST of the Tennessee tornado sirens will occur at 9:30 AM today (near the end of 1st block). This is not a real tornado"
 }
