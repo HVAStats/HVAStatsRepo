@@ -1,5 +1,22 @@
-[
-  "Atrium Boys",
-  "F100 Boys",
-  "F200 Boys"
-]
+{
+  "Atrium": {
+    "girls": true,
+    "boys": false
+  },
+  "F100": {
+    "girls": true,
+    "boys": true
+  },
+  "F200": {
+    "girls": true,
+    "boys": true
+  },
+  "D100": {
+    "girls": true,
+    "boys": false
+  },
+  "D200": {
+    "girls": true,
+    "boys": true
+  }
+}
