@@ -9,7 +9,7 @@
   },
   "F200": {
     "girls": true,
-    "boys": true
+    "boys": false
   },
   "D100": {
     "girls": true,
