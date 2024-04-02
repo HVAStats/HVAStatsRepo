@@ -1,5 +1,5 @@
 {
-  "show": true,
+  "show": false,
   "header": "Soft Lockdown",
   "info": "HVA is currently on a soft lockdown.\nUpdate: HVMS is currently evacuating due to an unknown reason."
 }
