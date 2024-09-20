@@ -1,5 +1,5 @@
 {
-   "show": false
-   "header": "KCS Wide Threat",
-   "info": "A student has threatened to shoot up every Knox County School in celebration of September 11th."
+   "show": true,
+   "header": "Power Outage",
+   "info": "Hardin Valley Academy has lost power following a country-wide power flicker."
  }
