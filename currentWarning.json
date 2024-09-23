@@ -1,5 +1,5 @@
 {
-   "show": false,
-   "header": "Power Outage",
-   "info": "Hardin Valley Academy has lost power following a county-wide power flicker."
+   "show": true,
+   "header": "Medium Lockdown",
+   "info": "Hardin Valley Academy is currently under medium lockdown due to unknown reasons."
  }
