@@ -1,5 +1,5 @@
 {
-   "show": false,
-   "header": "Medium Lockdown",
-   "info": "Hardin Valley Academy is currently under medium lockdown due to a medical emergency."
+   "show": true,
+   "header": "Soft Lockdown",
+   "info": "Hardin Valley Academy is currently under soft lockdown due to a medical emergency."
  }
