@@ -1,5 +1,5 @@
 {
-   "show": false,
-   "header": "No School",
-   "info": "Hardin Valley Academy, and every other Knox County School, will not be meeting Friday, September 27th due to severe weather conditions."
+   "show": true,
+   "header": "Evacuation",
+   "info": "Hardin Valley Academy is currently evacuated due to a fire alarm."
  }
