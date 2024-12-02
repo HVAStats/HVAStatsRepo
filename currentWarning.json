@@ -1,5 +1,5 @@
 {
-   "show": false,
-   "header": "Evacuation",
+   "show": true,
+   "header": "Fite Drill",
    "info": "Hardin Valley Academy is currently evacuated due to a fire drill."
  }
