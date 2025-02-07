@@ -1,5 +1,5 @@
 {
-   "show": false,
-   "header": "Fire Drill",
-   "info": "Hardin Valley Academy is currently evacuated due to a fire drill."
+   "show": true,
+   "header": "Sick Days",
+   "info": "Knox County Schools will not be in session on Monday and Tuesday (Feb 10-11) due to sickness"
  }
