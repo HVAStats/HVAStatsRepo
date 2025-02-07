@@ -1,10 +1,11 @@
 {
   "Lockdowns": 6,
+  "Fights": 5,
   "Threats": 3,
-  "Fights": 4,
   "Fire Drills": 4,
+  "Sick Days": 2,
+  "Internet Outages": 2,
   "Evacuations": 1,
   "Fire Alarms": 1,
-  "Power Outages": 1,
-  "Internet Outages": 1
+  "Power Outages": 1
 }
