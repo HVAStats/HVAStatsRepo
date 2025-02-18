@@ -1,5 +1,5 @@
 {
-   "show": false,
-   "header": "Sick Days",
-   "info": "Knox County Schools will not be in session on Monday and Tuesday (Feb 10-11) due to sickness"
+   "show": true,
+   "header": "Snow Day",
+   "info": "Knox County Schools will not be in session on Wednesday, February 18th"
  }
